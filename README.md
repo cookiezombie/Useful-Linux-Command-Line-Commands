@@ -10,7 +10,7 @@ Opens another directory. If your current working directory is /home/jeff and you
 
 ## **List files/folders**
 ### **``ls``**
-This will list the files and directories inside a current working directory. Helpful if you want to **``cd``** (change) to another directory. For example if there are two directories named **``word_docs``** and **``text_files``** inside the **``Documents``** directory, and you are currently at **``/home/jeff/Documents``** the **``ls``** command will list **``word_docs``** and **``text_files``**
+This will list the files and directories inside a current working directory. Helpful if you want to **``cd``** (change) to another directory. If there are two directories named **``word_docs``** and **``text_files``** inside the **``Documents``** directory and you are currently at **``/home/jeff/Documents``** the **``ls``** command will list **``word_docs``** and **``text_files``**
 
 
 ## **Change to your ``/home/user`` directory``** 
