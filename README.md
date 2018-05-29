@@ -1,12 +1,12 @@
-# Common Command Line Commands in Linux
+# **Common Command Line Commands in Linux**
 
-> **``pwd``**
+## **Print working directory** 
+### **``pwd``**
+This is helpful to list the full path to your current working directory. Most people are familiar with graphical program managers (folder icons/pictures and their respective files). A directory in the command line is similar to what a folder is in the graphical program managers. A current working directory lists all the folders opened to access the current folder you have open.
 
-**Print working directory** This is helpful to list the full path to your current working directory. Most people are familiar with graphical program managers (folder icons/pictures and their respective files). A directory in the command line is similar to what a folder is in the graphical program managers. A current working directory lists all the folders opened to access the current folder you have open.
-
-> **``cd``** 
-
-**Change directory** Opens another directory. If your current working directory is /home/jeff and you would like to change to /home/jeff/Documents, typing: **``cd /home/jeff/Documents``** will open the Documents folder. A faster way to accomplish this is to type **``cd Documents``** 
+## **Change directory**
+### **``cd``** 
+Opens another directory. If your current working directory is /home/jeff and you would like to change to /home/jeff/Documents, typing: **``cd /home/jeff/Documents``** will open the Documents folder. A faster way to accomplish this is to type **``cd Documents``** 
 
 >**ls**
 
