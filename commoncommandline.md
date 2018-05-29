@@ -29,4 +29,4 @@ If you are at **``/home/jeff/Documents/word_docs``**
 
 
 >**``rm -rf "filename"``**
-**Removes/deletes the filename listed** (type the filename without the quotes).You must be in the directory of the file you wish to delete or you can type the full path.
+**Removes/deletes the filename listed**. Type the filename without the quotes.You must be in the directory of the file you wish to delete or you can type the full path.
