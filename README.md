@@ -2,7 +2,7 @@
 
 ## **Print working directory** 
 ### **``pwd``**
-This is helpful to list the full path to your current working directory. Most people are familiar with graphical program managers (folder icons/pictures and their respective files). A directory in the command line is similar to what a folder is in the graphical program managers. A current working directory lists all the folders opened to access the current folder you have open.
+This is helpful to list the full path to your current working directory. Most people are familiar with the graphical program managers that have folder icons/pictures and their respective files. A directory in the command line is similar to what a folder is in the graphical program managers. A current working directory lists all the folders opened to access the current folder.
 
 ## **Change directory**
 ### **``cd``** 
