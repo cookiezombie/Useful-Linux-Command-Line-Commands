@@ -1,10 +1,10 @@
-# **Common Commands in the Linux Command Line**
+# **Useful Commands in the Linux Command Line**
 Learning how to use the command line can open up a whole new world. Even knowing a few basic commands can allow you to perform useful tasks. Plus, all your friends will be impressed with your new "hacker" skills!  
  
 When we open up a terminal session we see something like:
 >**`jeff@localhost:~$`**  
 
-`jeff@localhost:~$` is called a shell prompt and lists your username (jeff) and the name of your linux machine (mine is named localhost). The shell prompt is the first thing we see whenever we open up the terminal. We start typing our commands at the end of the shell prompt after the $ symbol.  
+`jeff@localhost:~$` is called a shell prompt and lists your username (jeff) and the name of your Linux machine (mine is named localhost). The shell prompt is the first thing we see whenever we open up the terminal. We start typing our commands at the end of the shell prompt after the $ symbol.  
 
 ## **Print working directory** 
 ### **`pwd`** 
