@@ -1,14 +1,14 @@
 # **Common Commands in the Linux Command Line**
 Learning how to use the command line can open up a whole new world. Even knowing a few basic commands can allow you to perform useful tasks. Plus, all your friends will be impressed with your new "hacker" skills!  
  
-When we open up a terminal session we see something similar to:
+When we open up a terminal session we see something like:
 >**`jeff@localhost:~$`**  
 
-The `jeff@localhost:~$` is called a shell prompt and lists things like your username (mine is jeff) and the name of your linux machine (such as localhost). Whenever we first open up the terminal we see the shell prompt. We start typing our commands at the end of the shell prompt after the $ symbol.  
+`jeff@localhost:~$` is called a shell prompt and lists your username (jeff) and the name of your linux machine (mine is named localhost). The shell prompt is the first thing we see Whenever we open up the terminal. We start typing our commands at the end of the shell prompt after the $ symbol.  
 
 ## **Print working directory** 
 ### **`pwd`** 
-As an example, typing **`pwd`** into the terminal     
+Typing **`pwd`** into the terminal     
 >**`jeff@localhost:~$ pwd`**  
 
 returns:  
@@ -62,16 +62,16 @@ If you are at **``/home/jeff/Documents/word_docs``**
 
 
 ## **Delete a file**
-### **``rm -rf "filename"``**
-Type the filename without the quotes.You must be in the directory of the file you wish to delete or you can type the full path.
+### **``rm -rf filename``**
+You must be in the directory of the directory/file you wish to delete or you can type the full path.
 
->**`jeff@localhost:~/Documents$ ls`** (Type ls to see the files/folders inside Documents)  
+>**`jeff@localhost:~/Documents$ ls`** (Type ls to see the directories/files inside Documents)  
  
 >**`word_docs`** **`text_files`** (Two directories inside)  
 
->**`jeff@localhost:~/Documents$ rm -rf word_docs`** (Delete word_docs file)
+>**`jeff@localhost:~/Documents$ rm -rf word_docs`** (Delete the directory named word_docs)
 
->**`jeff@localhost:~/Documents$ ls`** (Type ls to see if the file was deleted) 
+>**`jeff@localhost:~/Documents$ ls`** (Type ls to see if the directory was sucessfully deleted) 
 
->**`text_files`** (word_docs was successfully deleted since text_files is the only file to display.)
+>**`text_files`** (word_docs was deleted since text_files is the only directory to display.)
 
